@@ -13,8 +13,7 @@ IncognitoHand : Crowdfunding Platform Powered by Ethereum Blockchain
 
 ## Prerequisites to create Campaign and Contribute
 1. Install **Metamask** as Google Chrome Extension and Create an account.
-2.  Request Ether by sharing your ethereum address in social media <br>(`https://faucet.rinkeby.io/)`
-3. Get 0.01 ether free by giving the ethereum address <br>`(http://rinkeby-faucet.com/)`
+2.  Request Ether from <br>(`https://sepoliafaucet.com)`
 
 ## To Deploy your own Contract 
 1. Create an account in [https://[alchemy.com](https://www.alchemy.com/)]
