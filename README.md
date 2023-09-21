@@ -13,11 +13,10 @@ IncognitoHand : Crowdfunding Platform Powered by Ethereum Blockchain
 
 ## Prerequisites to create Campaign and Contribute
 1. Install **Metamask** as Google Chrome Extension and Create an account.
-2.  Request Ether by sharing your ethereum address in social media <br>(`https://faucet.rinkeby.io/)`
-3. Get 0.01 ether free by giving the ethereum address <br>`(http://rinkeby-faucet.com/)`
+2.  Request Ether from <br>(`https://sepoliafaucet.com)`
 
 ## To Deploy your own Contract 
-1. Create an account in [https://infura.io](https://infura.io/)
+1. Create an account in [https://[alchemy.com](https://www.alchemy.com/)]
 2. Create .env file in Ethereum directory and add these line to it.
 	> mnemonic = 'Your mnemonic code' <br>
 	link = 'Your infura end point link '
@@ -30,6 +29,6 @@ IncognitoHand : Crowdfunding Platform Powered by Ethereum Blockchain
    Copy the contract deploy address and replace it in factory.js file.
   
   
-6. Replace your "infura end point link" in web3.js file
+6. Replace your "infura end point link" in web3.js file, and app.js
 
 
