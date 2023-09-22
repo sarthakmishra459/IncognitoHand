@@ -2,17 +2,8 @@
     "version": 2,
     "builds": [
         {
-            "src": "next build",
-            "use": "@vercel/node@16.13.0",
-            "config": {
-                "node": "16.13.0"
-            }
-        }
-    ],
-    "routes": [
-        {
-            "src": "/(.*)",
-            "dest": "/$1"
+            "src": "package.json",
+            "use": "@vercel/node@16.14.0"
         }
     ]
 }
